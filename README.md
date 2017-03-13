@@ -6,4 +6,4 @@ Repositori ini berisi semua tugas yang diberikan dosen pada matakuliah Kecerdasa
 ## User
 NPM| Nama| Kelas | Prodi
 ------------ | ------------- | ------------- | -------------
-1144118| Rima Rizky Lestari| 3C| D4 Teknik Informatika Politeknik Pos Indonesia
+1144064| Fitri Fadhilah| 3C| D4 Teknik Informatika Politeknik Pos Indonesia
