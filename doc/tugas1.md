@@ -1,4 +1,4 @@
-#Kecerdasan Buatan
+# Kecerdasan Buatan
 
 <p align="center">
   <img src="/img/artificialintelligence1_1438602857.png" width="400px">

@@ -1,5 +1,5 @@
 
-#Representasi Pengetahuan
+# Representasi Pengetahuan
 
 yaitu suatu teknik untuk merepresentasikan basis pengetahuan yang diperoleh ke dalam sebuah skema tertentu sehingga dapat diketahui relasi antara suatu data dengan data yang lain sehingga bisa di uji.
 
