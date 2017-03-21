@@ -50,5 +50,5 @@ Aturan Produksi adalah salah satu representasi pengetahuan yang menghubungkan pr
 
 Scan Plagiarism
 
-https://drive.google.com/file/d/0B9frXx67PauPUTF0N05pa2Z6eDA/view
-https://drive.google.com/open?id=0B0azuCoNp9sAMkxqaUVjdjRxTTQ
+https://drive.google.com/file/d/0B9frXx67PauPMUpXeGUtS3VyblE/view
+https://drive.google.com/file/d/0B9frXx67PauPbWI0Z0tldkE2bTA/view
