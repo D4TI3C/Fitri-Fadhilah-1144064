@@ -36,5 +36,5 @@
 - Extend
 
 Scan Plagiarism
-https://drive.google.com/file/d/0B9frXx67PauPaU8yV3hDRlNVQk0/view
-https://drive.google.com/file/d/0B9frXx67PauPN1dRQTBSWndrSGM/view
+https://drive.google.com/file/d/0B9frXx67PauPaU8yV3hDRlNVQk0/view?usp=sharing
+https://drive.google.com/file/d/0B9frXx67PauPN1dRQTBSWndrSGM/view?usp=sharing
